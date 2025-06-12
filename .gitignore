@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Ignore backup or non-production assets
+/public/coversDNU/
+DoNoUse
